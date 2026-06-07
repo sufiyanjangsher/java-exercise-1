@@ -40,5 +40,5 @@ To strengthen Java fundamentals and build problem-solving skills before moving t
 
 ## Author
 
-Sufiyan
+Sufiyan Jangsher
 
